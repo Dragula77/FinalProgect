@@ -1,0 +1,15 @@
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/bin/Debug/net7.0/FinalProgect
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/bin/Debug/net7.0/FinalProgect.deps.json
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/bin/Debug/net7.0/FinalProgect.runtimeconfig.json
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/bin/Debug/net7.0/FinalProgect.dll
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/bin/Debug/net7.0/FinalProgect.pdb
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/obj/Debug/net7.0/FinalProgect.csproj.AssemblyReference.cache
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/obj/Debug/net7.0/FinalProgect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/obj/Debug/net7.0/FinalProgect.AssemblyInfoInputs.cache
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/obj/Debug/net7.0/FinalProgect.AssemblyInfo.cs
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/obj/Debug/net7.0/FinalProgect.csproj.CoreCompileInputs.cache
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/obj/Debug/net7.0/FinalProgect.dll
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/obj/Debug/net7.0/refint/FinalProgect.dll
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/obj/Debug/net7.0/FinalProgect.pdb
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/obj/Debug/net7.0/FinalProgect.genruntimeconfig.cache
+/Users/igormincenko/Documents/StudyGeekBrains/FinalProgect/obj/Debug/net7.0/ref/FinalProgect.dll
