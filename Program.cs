@@ -1,9 +1,13 @@
-﻿System.Console.WriteLine("Введите колличество элементов");
-int arrLength = int.Parse(Console.ReadLine());
-string[] array = new string[arrLength];
-string[] arr = getArray(arrLength);
+﻿int length = size();
+string[] array = new string[length];
+string[] arr = getArray(length);
 PrintResult(filterArray(arr));
 
+int size() {
+    System.Console.WriteLine("Введите колличество элементов");
+    int arrLength = int.Parse(Console.ReadLine());
+    return arrLength;
+}
 string[] getArray(int length)
 {
     for (int i = 0; i < length; i++)
