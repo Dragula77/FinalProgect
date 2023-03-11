@@ -39,7 +39,7 @@ string[] filterArray(string[] array)
     return tempArray;
     
 }
-void PrintResult(string[] array){
+void PrintResult(string[] array)
+{
     System.Console.WriteLine("[" + string.Join(", ", array) + "]");
 }
-
